@@ -1,0 +1,5 @@
+{
+  "mise": {
+    "packages": ["python@3.12"]
+  }
+}
